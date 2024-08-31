@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://7qssxk5jwosn"]
 
-[ext_resource type="Script" path="res://TestTextEdit.gd" id="1"]
-[ext_resource type="Script" path="res://TestLabel.gd" id="2"]
+[ext_resource type="Script" path="res://example/TestTextEdit.gd" id="1"]
+[ext_resource type="Script" path="res://example/TestLabel.gd" id="2"]
 
 [node name="GlobalSignalTestScene" type="Node"]
 

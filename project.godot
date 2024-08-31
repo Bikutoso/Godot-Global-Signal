@@ -11,8 +11,9 @@ config_version=5
 [application]
 
 config/name="Godot Global Signal"
-config/features=PackedStringArray("4.0")
-config/icon="res://icon.png"
+run/main_scene="res://example/GlobalSignalTestScene.tscn"
+config/features=PackedStringArray("4.3")
+config/icon="res://example/icon.png"
 
 [autoload]
 
@@ -24,4 +25,4 @@ common/enable_pause_aware_picking=true
 
 [rendering]
 
-environment/defaults/default_environment="res://default_env.tres"
+environment/defaults/default_environment="res://example/default_env.tres"

@@ -1,3 +1,5 @@
 res://default_env.tres
 res://GlobalSignalTestScene.tscn
 res://global_signal.gd
+res://example/default_env.tres
+res://example/GlobalSignalTestScene.tscn
