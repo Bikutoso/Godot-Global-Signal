@@ -1,10 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1725155374
+::res://::1725157386
 global_signal.gd::GDScript::-1::1725126694::0::1::::<>Node<>::
 README.md::TextFile::-1::1725125963::0::1::::<><>::
-::res://example/::1725126767
-default_env.tres::Environment::3236326094164560158::1725126767::0::1::::<><>::
-GlobalSignalTestScene.tscn::PackedScene::2280199315503145897::1725126767::0::1::::<><>::res://example/TestTextEdit.gd<>res://example/TestLabel.gd
+::res://example/::1725157386
+global_signal_test_scene.tscn::PackedScene::2280199315503145897::1725157395::0::1::::<><>::res://example/TestTextEdit.gd<>res://example/test_label.gd
 icon.png::CompressedTexture2D::6755085445032294450::1725125963::1725126765::1::::<><>::
-TestLabel.gd::GDScript::-1::1725125963::0::1::::<>Label<>::
-TestTextEdit.gd::GDScript::-1::1725126179::0::1::::<>LineEdit<>::
+TestTextEdit.gd::GDScript::-1::1725156959::0::1::::<>LineEdit<>::
+test_label.gd::GDScript::-1::1725157050::0::1::::<>Label<>::

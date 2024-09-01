@@ -1,4 +1,2 @@
-res://example/default_env.tres
 res://example/GlobalSignalTestScene.tscn
-res://example/TestTextEdit.gd
-res://example/TestLabel.gd
+res://example/global_signal_test_scene.tscn

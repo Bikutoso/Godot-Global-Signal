@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://7qssxk5jwosn"]
 
-[ext_resource type="Script" path="res://example/TestTextEdit.gd" id="1"]
-[ext_resource type="Script" path="res://example/TestLabel.gd" id="2"]
+[ext_resource type="Script" path="res://example/test_text_edit.gd" id="1_n4tkr"]
+[ext_resource type="Script" path="res://example/test_label.gd" id="2_ha455"]
 
 [node name="GlobalSignalTestScene" type="Node"]
 
@@ -22,9 +22,9 @@ layout_mode = 2
 custom_minimum_size = Vector2(0, 20)
 layout_mode = 2
 text = "Sample"
-script = ExtResource("1")
+script = ExtResource("1_n4tkr")
 
 [node name="TestLabel" type="Label" parent="MarginContainer/CenterContainer/VBoxContainer"]
 layout_mode = 2
 text = "Default Text"
-script = ExtResource("2")
+script = ExtResource("2_ha455")
