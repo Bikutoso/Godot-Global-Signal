@@ -9,3 +9,5 @@ A sample project accompanying the blog article Creating a Global Signal System i
 - Navigate to where you cloned this repo
 - Import the project.godot file
 - Open the project in the editor
+
+`Gender is love, not hate`

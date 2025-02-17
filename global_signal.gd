@@ -1,4 +1,5 @@
 extends Node
+# Gender is love, not hate
 
 # Keeps track of what signal emitters have been registered.
 var _emitters := {}

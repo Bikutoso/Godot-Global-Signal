@@ -1,9 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1725157386
+::res://::1725293534
 global_signal.gd::GDScript::-1::1725126694::0::1::::<>Node<>::
 README.md::TextFile::-1::1725125963::0::1::::<><>::
-::res://example/::1725157386
-global_signal_test_scene.tscn::PackedScene::2280199315503145897::1725157395::0::1::::<><>::res://example/TestTextEdit.gd<>res://example/test_label.gd
+::res://example/::1725157400
+global_signal_test_scene.tscn::PackedScene::2280199315503145897::1725157400::0::1::::<><>::res://example/test_text_edit.gd<>res://example/test_label.gd
 icon.png::CompressedTexture2D::6755085445032294450::1725125963::1725126765::1::::<><>::
-TestTextEdit.gd::GDScript::-1::1725156959::0::1::::<>LineEdit<>::
 test_label.gd::GDScript::-1::1725157050::0::1::::<>Label<>::
+test_text_edit.gd::GDScript::-1::1725156959::0::1::::<>LineEdit<>::
